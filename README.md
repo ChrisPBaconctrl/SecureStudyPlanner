@@ -48,5 +48,29 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) before proposing changes.
 See [SECURITY.md](SECURITY.md).
 
 ## License
+## Getting the Software
+
+You can obtain Secure Study Planner by cloning the GitHub repository:
+
+```bash
+git clone https://github.com/ChrisPBaconctrl/SecureStudyPlanner.git
+cd SecureStudyPlanner
+```
+
+You will need Python 3.10 or newer.
+
+## Feedback and Bug Reports
+
+If you encounter a bug, have a question, or would like to suggest an improvement, please submit an issue through our [GitHub Issues page](https://github.com/ChrisPBaconctrl/SecureStudyPlanner/issues).
+
+Please include a description of the problem or suggestion and steps to reproduce any reported bugs.
+
+## Contributing
+
+Contributions and improvements are welcome!
+
+Please read our [Contributing Guidelines](https://github.com/ChrisPBaconctrl/SecureStudyPlanner/blob/main/CONTRIBUTING.md) before submitting changes.
+
+Contributors should follow the project's coding and testing requirements and verify that existing tests pass before submitting a pull request.
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE).
