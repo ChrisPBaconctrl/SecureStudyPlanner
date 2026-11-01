@@ -1,5 +1,5 @@
 # Secure Study Planner
-
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/ChrisPBaconctrl/SecureStudyPlanner/badge)](https://scorecard.dev/viewer/?uri=github.com/ChrisPBaconctrl/SecureStudyPlanner)
 A small Python command-line application for organizing study tasks.
 
 ## Features
